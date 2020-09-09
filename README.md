@@ -8,12 +8,12 @@ I plan on using the command line (Terminal on Mac) to call and run the program w
 
 The program will follow a similar outline and style has presented below:
 
-# Introduction including date, name, problem and expected solution. 
+*Introduction including date, name, problem and expected solution. 
 
-# Open and read in the file
+*Open and read in the file
 
-# Have the "main" body of the program that calls a method to perform a function once the file is open
+*Have the "main" body of the program that calls a method to perform a function once the file is open
 
-# Perform the operation using a method and return or print the answer
+*Perform the operation using a method and return or print the answer
 
 I will stive to explain my logic and process through the use of comments in the code. 
