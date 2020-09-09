@@ -16,4 +16,4 @@ The program will follow a similar outline and style has presented below:
 
 *Perform the operation using a method and return or print the answer
 
-I will stive to explain my logic and process through the use of comments in the code. 
+I will strive to explain my logic and process through the use of comments in the code. 
